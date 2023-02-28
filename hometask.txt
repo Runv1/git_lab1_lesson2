@@ -1,2 +1,15 @@
 Отличие в отсутствии в ветке demo фразы:
 with nice buttons on his jacket (buttons branch)
+
+Комментарии:
+hometask.txt
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
